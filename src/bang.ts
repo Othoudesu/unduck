@@ -122080,4 +122080,13 @@ export const bangs = [
     t: "gpt",
     u: "https://chatgpt.com/?q={{{s}}}",
   },
+  {
+    c: "Entertainment",
+    d: "animeflv.net",
+    r: 52,
+    s: "animeflv",
+    sc: "series",
+    t: "flv",
+    u: "https://www3.animeflv.net/browse?q={{{s}}}",
+  },
 ];
