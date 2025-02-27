@@ -122062,4 +122062,13 @@ export const bangs = [
     t: "\u10d0\u10e1\u10e2\u10e0\u10dd",
     u: "http://astronet.ge/?s={{{s}}}",
   },
+  {
+    c: "Entertainment",
+    d: "lectulandia.com",
+    r: 51,
+    s: "Mangadex",
+    sc: "Comics",
+    t: "lec",
+    u: "https://ww3.lectulandia.com/search/{{{s}}}",
+  },
 ];
