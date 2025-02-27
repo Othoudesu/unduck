@@ -122089,4 +122089,13 @@ export const bangs = [
     t: "flv",
     u: "https://www3.animeflv.net/browse?q={{{s}}}",
   },
+  {
+    c: "Entertainment",
+    d: "zonatmo.com",
+    r: 53,
+    s: "TuMangaOnline",
+    sc: "comics",
+    t: "tmo",
+    u: "https://zonatmo.com/library?title={{{s}}}&_pg=1",
+  },
 ];
