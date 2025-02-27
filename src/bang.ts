@@ -44213,7 +44213,7 @@ export const bangs = [
     r: 223,
     s: "Google PT",
     sc: "Google",
-    t: "gpt",
+    t: "gopt",
     u: "https://www.google.pt/search?q={{{s}}}",
   },
   {
@@ -122066,9 +122066,18 @@ export const bangs = [
     c: "Entertainment",
     d: "lectulandia.com",
     r: 51,
-    s: "Mangadex",
+    s: "Lectulandia",
     sc: "Comics",
     t: "lec",
     u: "https://ww3.lectulandia.com/search/{{{s}}}",
+  },
+  {
+    c: "AI",
+    d: "chatgpt.com",
+    r: 51,
+    s: "ChatGPT",
+    sc: "search",
+    t: "gpt",
+    u: "https://chatgpt.com/?q={{{s}}}",
   },
 ];
