@@ -66739,7 +66739,7 @@ export const bangs = [
     s: "Mangadex",
     sc: "Comics",
     t: "mdx",
-    u: "https://mangadex.org/search?title={{{s}}}",
+    u: "https://mangadex.org/search?q={{{s}}}",
   },
   {
     c: "Online Services",
