@@ -28177,7 +28177,7 @@ export const bangs = [
     r: 0,
     s: "Den Store Danske",
     sc: "Reference",
-    t: "dsd",
+    t: "dsds",
     u: "http://www.denstoredanske.dk/Special:Opslag?q={{{s}}}",
   },
   {
@@ -28186,7 +28186,7 @@ export const bangs = [
     r: 19,
     s: "De Standaard",
     sc: "Newspaper (intl)",
-    t: "ds",
+    t: "dsd",
     u: "http://www.standaard.be/zoeken?keyword={{{s}}} ",
   },
   {
@@ -122097,5 +122097,14 @@ export const bangs = [
     sc: "comics",
     t: "tmo",
     u: "https://zonatmo.com/library?title={{{s}}}&_pg=1",
+  },
+  {
+    c: "AI",
+    d: "chat.deepseek.com",
+    r: 54,
+    s: "DeepSeek",
+    sc: "Ai",
+    t: "ds",
+    u: "https://chat.deepseek.com/?q={{{s}}}",
   },
 ];
